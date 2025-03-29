@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm @21017511vocongtuananh!<br><br>👀 I'm into web development, always eager to learn new things and make cool stuff online.<br><br>🌱 Currently, I'm sharpening my skills in HTML, CSS, JavaScript, and diving into backend technologies like Node.js,Java and C#.<br><br>💞️ I'm up for teaming up on any web projects that need an extra pair of hands!<br><br>📫 You can reach me via email anhvo9355@gmail.com.<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: Nothing
+👋 Hi, I'm @21017511vocongtuananh!<br><br>👀 I'm into web development, always eager to learn new things and make cool stuff online.<br><br>🌱 Currently, I'm sharpening my skills in HTML, CSS, JavaScript, and diving into backend technologies like Node.js,Java.<br><br>💞️ I'm up for teaming up on any web projects that need an extra pair of hands!<br><br>📫 You can reach me via email anhvo9355@gmail.com.<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: Nothing
 
 
 ## 🌐 Socials:
